@@ -3,7 +3,7 @@
 
 # Reanalysis ERA5-Land MONTHLY data from 1981 to present
 ## Download, Mapping and time serie extraction (from Copernicus "Climate Data Store")
-MONTHLY Precipitations, potential evaporation, evaporation, temperature, snow stock and many other parameters.
+MONTHLY Precipitations, potential evaporation, evaporation, temperature and snow stock.
 
 - Data: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=overview
 - ERA5-Land Data documentation: https://confluence.ecmwf.int/display/CKB/ERA5-Land%3A+data+documentation
