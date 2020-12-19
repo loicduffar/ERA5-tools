@@ -16,7 +16,7 @@ Run cells in order (red star <font color="red">*</font> indicates major steps):
 - <a href=#section01>1)</a> <font color="red">*</font>Data download (only NetCDF format here, because more handy than GRIB format)
 - <font color="red">*</font>IF the ERA5 file is already downloaded, start by the 2nd cell instead of the 1rst one
 - <a href=#section02>2)</a> <font color="red">*</font>Customization, initialization and display netCDF file infos
-- <a href=#section03>3)</a> <font color="red">*</font>Plot interannual average map
+- <a href=#section03>3)</a> <font color="red">*</font>Plot interannual average maps (annual and monthly interannual average)
 - <a href=#section04>4)</a> <font color="red">*</font>Plot and save monthly timeserie for one pixel in excel file
 - <a href=#section05>5)</a> Annual maps animation
 - <a href=#section06>6)</a> Montlhy maps animation
