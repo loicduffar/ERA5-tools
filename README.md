@@ -1,5 +1,9 @@
 # ERA5-tools
-## Python scripts to download and view ERA5 climatologic data, as well as to extract time series (hourly to monthly data on many atmospheric, land-surface and sea-state parameters)
+####### Python scripts to download and view ERA5 climatologic data, as well as to extract time series (hourly to monthly data on many atmospheric, land-surface and sea-state parameters)
+
+# Reanalysis ERA5-Land MONTHLY data from 1981 to present
+## Download, Mapping and time serie extraction (from Copernicus "Climate Data Store")
+MONTHLY Precipitations, potential evaporation, evaporation, temperature, snow stock and many other parameters.
 
 - Data: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=overview
 - ERA5-Land Data documentation: https://confluence.ecmwf.int/display/CKB/ERA5-Land%3A+data+documentation
