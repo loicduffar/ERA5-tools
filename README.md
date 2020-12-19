@@ -17,7 +17,7 @@ Run cells in order (red star <font color="red">*</font> indicates major steps):
 - <font color="red">*</font>IF the ERA5 file is already downloaded, start by the 2nd cell instead of the 1rst one
 - <a href=#section02>2)</a> <font color="red">*</font>Customization, initialization and display netCDF file infos
 - <a href=#section03>3)</a> <font color="red">*</font>Plot interannual average maps (annual and monthly interannual average) and save to files
-- <a href=#section04>4)</a> <font color="red">*</font>Plot and save monthly timeserie for one pixel in excel file
+- <a href=#section04>4)</a> <font color="red">*</font>Plot monthly timeserie for one pixel, and export it to excel file
 - <a href=#section05>5)</a> Annual maps animation
 - <a href=#section06>6)</a> Montlhy maps animation
 
