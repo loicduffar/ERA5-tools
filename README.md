@@ -21,3 +21,22 @@ Run cells in order (red star <font color="red">*</font> indicates major steps):
 - <a href=#section05>5)</a> Annual maps animation
 - <a href=#section06>6)</a> Montlhy maps animation
 - <a href=#section07>7)</a> Plot Maps over 12 months for a specific year (and one month map with basemap)
+
+# Reanalysis ERA5-Land HOURLY data (from 1981 to present)
+## Download, Mapping, daily/monthly aggregation and time serie extraction (from Copernicus "Climate Data Store")
+HOURLY Precipitations, temperature, evaporation, runoff and other parameters.
+
+- Data: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land?tab=overview
+- ERA5-Land documentation: https://confluence.ecmwf.int/display/CKB/ERA5-Land%3A+data+documentation
+
+author: Loïc Duffar https://github.com/loicduffar
+
+### How to PROCEED ?
+Run cells in order (red stars <font color="red">*</font> indicate major steps):
+- <a href=#section01>1)</a><font color="red">*</font> Data download (Download volume is limited by the server: you will have to adapt number of variables, the périod of time and the area and/or to split the request in several files)
+- 1bis)<font color="red">*</font> Edit and run the 2nd cell, instead of the 1rst one IF the ERA5 file is already downloaded
+- <a href=#section02>2)</a><font color="red">*</font> Customization, initialization and display netCDF file infos
+- <a href=#section03>3)</a><font color="red">*</font> Plot maps by hour/day/month and interannual average
+- <a href=#section04>4)</a><font color="red">*</font> Plot and export dailly time serie for one pixel and for a possible polygon
+- <a href=#section05>5)</a> Animation maps by month, day and hour
+- 5bis) Animation maps by day and hour OVER A SELECTED PERIOD OF TIME. (Use this cell instead of the one above if the navigation through the hourly data is difficult because of a file covering a very long duration; 10 years for example).
