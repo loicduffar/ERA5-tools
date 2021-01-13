@@ -1,6 +1,17 @@
 # ERA5-tools
 #### Python scripts to download and view ERA5 climatologic data, as well as to extract time series (hourly to monthly data on many atmospheric, land-surface and sea-state parameters)
 
+### How to AUTHORIZE the execution of the python code on Windows ? (only once)
+https://cds.climate.copernicus.eu/api-how-to
+
+- If you do not have an account, please register on the CDS registration page
+- Log in
+- Copy the <a href="https://cds.climate.copernicus.eu/api-how-to">code with your personal key</a> (see below), into the file "USER/.cdsapirc" (in Windows environment)
+(The file starting with a dot can be created using Notepad: "File> Save as> Type: All files> File name: .cdsfapirc"
+
+    url: https://cds.climate.copernicus.eu/api/v2     
+    key: {uid}:{api-key}
+  
 # Reanalysis ERA5-Land MONTHLY data (from 1981 to present)
 ## Download, Mapping and time serie extraction (from Copernicus "Climate Data Store")
 MONTHLY Precipitations, runoff, potential evaporation, evaporation, temperature and snow stock.
