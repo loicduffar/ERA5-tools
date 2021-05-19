@@ -25,7 +25,7 @@ author: Loïc Duffar https://github.com/loicduffar
 ### How to proceed ?
 Run cells in order :
 - <a href=#section01>1)</a> Data download (only NetCDF format here, because more handy than GRIB format)
-- <font color="red">*</font>IF the ERA5 file is already downloaded, start by the 2nd cell instead of the 1rst one
+- IF the ERA5 file is already downloaded, start by the 2nd cell instead of the 1rst one
 - <a href=#section02>2)</a> Customization, initialization and display netCDF file infos
 - <a href=#section03>3)</a> Plot annual and monthly interannual average maps (and save to files)
 - <a href=#section04>4)</a> Plot monthly time series (for one pixel and for a possible polygon), and export them to excel file
