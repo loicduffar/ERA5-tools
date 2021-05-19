@@ -43,11 +43,11 @@ HOURLY Precipitations, temperature, evaporation, runoff and other parameters.
 author: Loïc Duffar https://github.com/loicduffar
 
 ### How to PROCEED ?
-Run cells in order (red stars <font color="red">*</font> indicate major steps):
+Run cells in order :
 - <a href=#section01>1)</a><font color="red">*</font> Data download (Download volume is limited by the server: you will have to adapt number of variables, the périod of time and the area and/or to split the request in several files)
 - 1bis)<font color="red">*</font> Edit and run the 2nd cell, instead of the 1rst one IF the ERA5 file is already downloaded
-- <a href=#section02>2)</a><font color="red">*</font> Customization, initialization and display netCDF file infos
-- <a href=#section03>3)</a><font color="red">*</font> Plot maps by hour/day/month and interannual average
-- <a href=#section04>4)</a><font color="red">*</font> Plot and export dailly time serie for one pixel and for a possible polygon
-- <a href=#section05>5)</a> Animation maps by month, day and hour
-- 5bis) Animation maps by day and hour OVER A SELECTED PERIOD OF TIME. (Use this cell instead of the one above if the navigation through the hourly data is difficult because of a file covering a very long duration; 10 years for example).
+- <a href=#section02>2)</a> Customization, initialization and display netCDF file infos
+- <a href=#section03>3)</a> Plot maps by hour/day/month and interannual average
+- <a href=#section04>4)</a> Plot and export dailly time serie for one pixel and for a possible polygon
+- <a href=#section05>5)</a> Animation maps by month, day and hour (OPTIONNAL)
+- 5bis) Animation maps by day and hour OVER A SELECTED PERIOD OF TIME. (OPTIONNAL: Use this cell instead of the one above if the navigation through the hourly data is difficult because of a file covering a very long duration; 10 years for example).
