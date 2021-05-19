@@ -23,15 +23,15 @@ MONTHLY Precipitations, runoff, potential evaporation, evaporation, temperature 
 author: Loïc Duffar https://github.com/loicduffar
 
 ### How to proceed ?
-Run cells in order (red star <font color="red">*</font> indicates major steps):
-- <a href=#section01>1)</a> <font color="red">*</font>Data download (only NetCDF format here, because more handy than GRIB format)
+Run cells in order :
+- <a href=#section01>1)</a> Data download (only NetCDF format here, because more handy than GRIB format)
 - <font color="red">*</font>IF the ERA5 file is already downloaded, start by the 2nd cell instead of the 1rst one
-- <a href=#section02>2)</a> <font color="red">*</font>Customization, initialization and display netCDF file infos
-- <a href=#section03>3)</a> <font color="red">*</font>Plot annual and monthly interannual average maps (and save to files)
-- <a href=#section04>4)</a> <font color="red">*</font>Plot monthly time series (for one pixel and for a possible polygon), and export them to excel file
-- <a href=#section05>5)</a> Annual maps animation
-- <a href=#section06>6)</a> Montlhy maps animation
-- <a href=#section07>7)</a> Plot Maps over 12 months for a specific year (and one month map with basemap)
+- <a href=#section02>2)</a> Customization, initialization and display netCDF file infos
+- <a href=#section03>3)</a> Plot annual and monthly interannual average maps (and save to files)
+- <a href=#section04>4)</a> Plot monthly time series (for one pixel and for a possible polygon), and export them to excel file
+- <a href=#section05>5)</a> Annual maps animation (OPTIONNAL)
+- <a href=#section06>6)</a> Montlhy maps animation (OPTIONNAL)
+- <a href=#section07>7)</a> Plot Maps over 12 months for a specific year (and one month map with basemap) (OPTIONNAL)
 
 # Reanalysis ERA5-Land HOURLY data (from 1981 to present)
 ## Download, Mapping, daily/monthly aggregation and time serie extraction (from Copernicus "Climate Data Store")
@@ -45,7 +45,7 @@ author: Loïc Duffar https://github.com/loicduffar
 ### How to PROCEED ?
 Run cells in order :
 - <a href=#section01>1)</a><font color="red">*</font> Data download (Download volume is limited by the server: you will have to adapt number of variables, the périod of time and the area and/or to split the request in several files)
-- 1bis)<font color="red">*</font> Edit and run the 2nd cell, instead of the 1rst one IF the ERA5 file is already downloaded
+- 1bis) Edit and run the 2nd cell, instead of the 1rst one IF the ERA5 file is already downloaded
 - <a href=#section02>2)</a> Customization, initialization and display netCDF file infos
 - <a href=#section03>3)</a> Plot maps by hour/day/month and interannual average
 - <a href=#section04>4)</a> Plot and export dailly time serie for one pixel and for a possible polygon
