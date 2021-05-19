@@ -44,7 +44,7 @@ author: Loïc Duffar https://github.com/loicduffar
 
 ### How to PROCEED ?
 Run cells in order :
-- <a href=#section01>1)</a><font color="red">*</font> Data download (Download volume is limited by the server: you will have to adapt number of variables, the périod of time and the area and/or to split the request in several files)
+- <a href=#section01>1)</a> Data download (Download volume is limited by the server: you will have to adapt number of variables, the périod of time and the area and/or to split the request in several files)
 - 1bis) Edit and run the 2nd cell, instead of the 1rst one IF the ERA5 file is already downloaded
 - <a href=#section02>2)</a> Customization, initialization and display netCDF file infos
 - <a href=#section03>3)</a> Plot maps by hour/day/month and interannual average
