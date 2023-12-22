@@ -54,3 +54,4 @@ Run cells in order :
 
 <img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Annual.png" width="50%"></img>
 <img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Monthly.png" width="40%"></img>
+<img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Monthly%20Time%20serie.png" width="40%"></img>
