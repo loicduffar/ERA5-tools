@@ -53,3 +53,4 @@ Run cells in order :
 - 5bis) Animation maps by day and hour OVER A SELECTED PERIOD OF TIME. (OPTIONNAL: Use this cell instead of the one above if the navigation through the hourly data is difficult because of a file covering a very long duration; 10 years for example).
 
 <img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Annual.png" width="50%"></img>
+<img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Monthly.png" width="50%"></img>
