@@ -52,6 +52,6 @@ Run cells in order :
 - <a href=#section05>5)</a> Animation maps by month, day and hour (OPTIONNAL)
 - 5bis) Animation maps by day and hour OVER A SELECTED PERIOD OF TIME. (OPTIONNAL: Use this cell instead of the one above if the navigation through the hourly data is difficult because of a file covering a very long duration; 10 years for example).
 
-<img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Annual.png" width="30%"></img>
+<img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Annual.png" width="20%"></img>
 <img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Monthly.png" width="40%"></img>
 <img src="https://github.com/loicduffar/ERA5-tools/blob/main/out/ERA5-Land%20monthly%20averaged%20total_precipitation%201981-2020%20SRI%20LANKA%20BATTICALOA_Monthly%20Time%20serie.png" width="60%"></img>
