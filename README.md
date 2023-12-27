@@ -14,24 +14,32 @@ https://cds.climate.copernicus.eu/api-how-to
   
 # Reanalysis ERA5-Land MONTHLY data (from 1950 to present)
 ## Download, Mapping and time serie extraction (from Copernicus "Climate Data Store")
+#### <font color="red"> Solution à trouver dans la cellule 3 pour afficher les cartes hvplot AVEC CONTOUR ET FOND DE PLAN en python 3.11
+<font color="red">Avec évolution de Février 2023 A VALIDER pour adaptation au format ERA5-Land-T (Timely updated, NearRealTime)<br>(dimension supplémentaire 'expver')
+</font></font>
+<br>
+https://confluence.ecmwf.int/display/CUSF/ERA5+CDS+requests+which+return+a+mixture+of+ERA5+and+ERA5T+data
+
+https://confluence.ecmwf.int/display/CKB/ERA5-Land%3A+data+documentation
+
 MONTHLY Precipitations, runoff, potential evaporation, evaporation, temperature and snow stock.
 
 - Data: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-land-monthly-means?tab=overview
 - ERA5-Land Data documentation: https://confluence.ecmwf.int/display/CKB/ERA5-Land%3A+data+documentation
 
-
 author: Loïc Duffar https://github.com/loicduffar
 
-### How to proceed ?
-Run cells in order :
+### How to PROCEED ?
+Run cells by order:
 - <a href=#section01>1)</a> Data download (only NetCDF format here, because more handy than GRIB format)
-- IF the ERA5 file is already downloaded, start by the 2nd cell instead of the 1rst one
+- 1bis) IF the ERA5 file is already downloaded, start by the 2nd cell instead of the 1rst one
 - <a href=#section02>2)</a> Customization, initialization and display netCDF file infos
 - <a href=#section03>3)</a> Plot annual and monthly interannual average maps (and save to files)
 - <a href=#section04>4)</a> Plot monthly time series (for one pixel and for a possible polygon), and export them to excel file
-- <a href=#section05>5)</a> Annual maps animation (OPTIONNAL)
-- <a href=#section06>6)</a> Montlhy maps animation (OPTIONNAL)
-- <a href=#section07>7)</a> Plot Maps over 12 months for a specific year (and one month map with basemap) (OPTIONNAL)
+- <a href=#section05>5)</a> Annual maps animation OPTIONNAL
+- <a href=#section06>6)</a> Montlhy maps animation OPTIONNAL
+- <a href=#section07>7)</a> Plot Maps over 12 months for a specific year (and one month map with basemap) OPTIONNAL
+- <a href=#section08>8)</a> Elevation map OPTIONNAL
 
 # Reanalysis ERA5-Land HOURLY data (from 1950 to present)
 ## Download, Mapping, daily/monthly aggregation and time serie extraction (from Copernicus "Climate Data Store")
