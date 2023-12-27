@@ -12,10 +12,10 @@ https://cds.climate.copernicus.eu/api-how-to
     url: https://cds.climate.copernicus.eu/api/v2     
     key: {uid}:{api-key}
   
-# Reanalysis ERA5-Land MONTHLY data (from 1950 to present)
+# Reanalysis ERA5-Land-T MONTHLY data (from 1950 to present)
 ## Download, Mapping and time serie extraction (from Copernicus "Climate Data Store")
-#### <font color="red"> Solution à trouver dans la cellule 3 pour afficher les cartes hvplot AVEC CONTOUR ET FOND DE PLAN en python 3.11
-<font color="red">Avec évolution de Février 2023 A VALIDER pour adaptation au format ERA5-Land-T (Timely updated, NearRealTime)<br>(dimension supplémentaire 'expver')
+#### <font color="red"> Fonctionel en python 311 mais solution non trouvée dans les cellules 3, 7 et 8 pour afficher les cartes hvplot AVEC CONTOUR ET FOND DE PLAN
+<font color="red">Avec évolution de Février 2023 (A AMELIORER EVENTUELLEMENT) pour adaptation au format ERA5-Land-T (Timely updated, NearRealTime = nouvelle dimension 'expver')
 </font></font>
 <br>
 https://confluence.ecmwf.int/display/CUSF/ERA5+CDS+requests+which+return+a+mixture+of+ERA5+and+ERA5T+data
