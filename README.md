@@ -33,7 +33,7 @@ Run cells in order :
 - <a href=#section06>6)</a> Montlhy maps animation (OPTIONNAL)
 - <a href=#section07>7)</a> Plot Maps over 12 months for a specific year (and one month map with basemap) (OPTIONNAL)
 
-# Reanalysis ERA5-Land HOURLY data (from 1981 to present)
+# Reanalysis ERA5-Land HOURLY data (from 1950 to present)
 ## Download, Mapping, daily/monthly aggregation and time serie extraction (from Copernicus "Climate Data Store")
 HOURLY Precipitations, temperature, evaporation, runoff and other parameters.
 
