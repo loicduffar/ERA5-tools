@@ -12,7 +12,7 @@ https://cds.climate.copernicus.eu/api-how-to
     url: https://cds.climate.copernicus.eu/api/v2     
     key: {uid}:{api-key}
   
-# Reanalysis ERA5-Land MONTHLY data (from 1981 to present)
+# Reanalysis ERA5-Land MONTHLY data (from 1950 to present)
 ## Download, Mapping and time serie extraction (from Copernicus "Climate Data Store")
 MONTHLY Precipitations, runoff, potential evaporation, evaporation, temperature and snow stock.
 
